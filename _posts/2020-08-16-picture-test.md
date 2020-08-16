@@ -4,4 +4,4 @@ title: "picture test"
 date: 2020-08-15
 ---
 
-<img src="![pink fairy 3](https://user-images.githubusercontent.com/68365188/90344104-7bc0ec80-dfe4-11ea-8636-54177d3dcd04.jpg)">
+<img src="https://raw.githubusercontent.com/elidiaa/elidiaa.github.io/master/images/pink%20fairy%203.jpg">
